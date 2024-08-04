@@ -6,6 +6,4 @@ Proficient in Data Structures and Algorithms, with a strong foundation in proble
 Demonstrated expertise in designing, developing, and deploying scalable applications and machine learning models. 
 Passionate about leveraging technical skills to drive innovation and achieve business objectives
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamBabar07)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBabar07&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBabar07&layout=compact)
